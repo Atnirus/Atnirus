@@ -37,10 +37,6 @@
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-<a href="#">
-    <img src="svg/dev/languages/c.svg" alt="c" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
 </P>
 
 ### Tools 
