@@ -1,9 +1,10 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Pakinai Surinta
+- ⚡ Student id: 63364758
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+- Career interest in the future: Application Developer, Game Developer
+- Special aptitude, interest in computer engineering:
 ## Developer Tech
 
 ### Frameworks 
@@ -30,6 +31,10 @@
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+<a href="#">
+    <img src="svg/dev/languages/javascript.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
