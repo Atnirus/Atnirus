@@ -2,9 +2,9 @@
 
 - 😄 My name is: Pakinai Surinta
 - ⚡ Student id: 63364758
-- 🔭 I'm currently studying on Faculty of Engineering.
-- 🌱 Career interest in the future: Application Developer, Game Developer
-- 🚧 Special aptitude, interest in computer engineering: Computer Architecture and Organization
+- 👨‍🎓 I'm currently studying on Faculty of Engineering.
+- 👨‍💻 Career interest in the future: Application Developer, Game Developer
+- 💻 Special aptitude, interest in computer engineering: Computer Architecture and Organization
 ## Developer Tech
 
 ### Frameworks 
