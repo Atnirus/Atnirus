@@ -4,7 +4,7 @@
 - ⚡ Student id: 63364758
 - 🔭 I'm currently studying on Faculty of Engineering.
 - Career interest in the future: Application Developer, Game Developer
-- Special aptitude, interest in computer engineering:
+- Special aptitude, interest in computer engineering: Computer Architecture and Organization
 ## Developer Tech
 
 ### Frameworks 
@@ -34,7 +34,7 @@
   </a>
 
 <a href="#">
-    <img src="svg/dev/languages/javascript.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
